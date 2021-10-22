@@ -1,8 +1,8 @@
 <h1>Olá! Eu sou o Gabriel Vogetta</h1>
 
-📚 Estudante de Front-End na <a href="https://www.alura.com.br/">Alura</a>
-Atualmente focado em ReactJs
-Aqui você pode encontrar meus projetos pessoais e desafios completos
+<p>📚 Estudante de Front-End na <a href="https://www.alura.com.br/">Alura</a></p>
+<p>Atualmente focado em ReactJs</p>
+<p>Aqui você pode encontrar meus projetos pessoais e desafios completos</p>
 
 <div align="center">
   <a href="https://github.com/GabrielVogetta">

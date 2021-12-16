@@ -1,6 +1,8 @@
 <h1>Olá! Eu sou o Gabriel Vogetta</h1>
 
-<img src='https://res.cloudinary.com/dzugtpcap/image/upload/v1639678315/personal/carbon_agjnr6.png' align='center'/>
+<div align="center">
+  <img src='https://res.cloudinary.com/dzugtpcap/image/upload/v1639678315/personal/carbon_agjnr6.png'/>   
+</div>
 
 <div align="center">
   <a href="https://github.com/GabrielVogetta">

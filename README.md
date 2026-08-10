@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gabriel Vogetta
 
-### Tenho 22 anos, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas e esses são alguns de meus projetos desenvolvidos até o momento. 
+### Tenho 23 anos, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas e esses são alguns de meus projetos desenvolvidos até o momento. 
  
 <div align="center">
   <a href="https://github.com/GabrielVogetta">
